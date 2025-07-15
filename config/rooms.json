@@ -1,0 +1,5 @@
+{
+  "room_ids": [1750976320],
+  "max_retries": 3,
+  "retry_delay": 5
+}
